@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.jpeg)
 
->IPhone13
+>Link de acesso: https://luaspecht.github.io/Iphone/
 
 Landing Page inspirada nos produtos Apple, onde seus maiores desafio foram as funções para troca de cor de aparelho e fundo
 
