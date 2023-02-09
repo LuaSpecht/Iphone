@@ -18,3 +18,5 @@ Landing Page inspirada nos produtos Apple, onde seus maiores desafio foram as fu
  - luaspecht@gmail.com
  
  - linkedin: https://www.linkedin.com/in/luana-specht-bragante-3a198b115/
+
+
